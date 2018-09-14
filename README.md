@@ -25,3 +25,4 @@
 - [x] c. If the text field is empty, update label with default text string.
 - [x] d. The keyboard is dismissed after the button has been tapped.
 # CoolApp
+# CoolApp
