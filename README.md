@@ -24,3 +24,4 @@
 - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
 - [x] c. If the text field is empty, update label with default text string.
 - [x] d. The keyboard is dismissed after the button has been tapped.
+# CoolApp
